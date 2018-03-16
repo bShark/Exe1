@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Exe1</string>
+    <string name="ac_main_btn1">Click1</string>
+    <string name="ac_main_btn2">Click2</string>
+    <string name="ac_main_btn3">Click3</string>
 </resources>
